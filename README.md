@@ -1,0 +1,7 @@
+将json数据计算为可以联程的机票，需要参数
+arrAirportName
+depAirportName
+arrCityName
+depCityName
+arrTime
+可自定义所有中途联程的最长时间
