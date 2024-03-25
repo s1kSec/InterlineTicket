@@ -1,10 +1,16 @@
-将json数据计算为可以联程的机票，需要参数
+本项目根据某json数据计算为可以联程的机票，需要参数
+
 arrAirportName
+
 depAirportName
+
 arrCityName
+
 depCityName
+
 arrTime
-可自定义所有中途联程的最长时间
+
+__SpaceTime__：可自定义所有中途联程的最长时间
 
 ![image](https://github.com/PlusTop/InterlineTicket/assets/105430146/198cbaae-3132-489a-ab84-0d312a582568)
 
